@@ -1,0 +1,17 @@
+
+.box{
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.cards{
+    gap: 10px;
+    margin-bottom: 20px;
+}
